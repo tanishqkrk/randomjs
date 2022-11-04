@@ -1,4 +1,8 @@
 
+# RANDOMJS
+
+Generating randomly is a real pain in JavaScript. The literals and syntax is way too long, randomjs is here to save the day by providing a library that lets you randomize stuff with one simple method call!
+
 ## Deployment
 
 To deploy this project run
